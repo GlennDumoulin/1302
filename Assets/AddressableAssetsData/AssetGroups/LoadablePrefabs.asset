@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LoadablePrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: LoadablePrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c55a8ed7779e7df40a2b227978862d2e
+  m_SerializeEntries:
+  - m_GUID: 6ca24e9fda1f54f4298bdb3407a430de
+    m_Address: Troop_Swordsman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64ee7f767c3f99a448edbe44a5c5b89c
+    m_Address: Troop_Swordsman+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0343f143ccae7a14ebc0f24f0bd79190
+    m_Address: Troop_Archer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6241413023343f41a4931a4cc10e0ad
+    m_Address: Troop_Crossbowman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f4bd9a0aea92964bae75b6c174bd7a7
+    m_Address: Troop_Knight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b716c5e50414bf540bbe4fe51903bc77
+    m_Address: Troop_Knight+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20509ecfa27f62c42aadfbd1bbc94cc8
+    m_Address: Troop_AntiHorse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23fae56030365fe478ff61dd8d887cda
+    m_Address: Troop_AntiHorse+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 472eed44308a5914e8d3453352214e12
+    m_Address: Troop_KnightFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: febac35c815a7504fbd032b5c3e6095d
+    m_Address: Troop_Swordsman+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebc20ed321261b740a7f0ae5a14f8f14
+    m_Address: Troop_Knight+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48772ca101b5873459f933ee897969cd
+    m_Address: Troop_CrossbowmanFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5688f68712d2b7742b155ef329550f7b
+    m_Address: Troop_ArcherFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a44c9d52a2f784cacd4f94583757d7
+    m_Address: Troop_AntiHorse+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2650fd63a88b37b45935e48df44d8f4e
+    m_Address: Troop_SwordsmanFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1fe6cf0a57dd0a4aad83037d750fdcb
+    m_Address: Troop_AntiHorseFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae889f53bca991d41a5643de87599d70
+    m_Address: Card_Swordsman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a37988812eeb7ac4fb290cde557858a2
+    m_Address: Card_Swordsman+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfb2c7fbfe2c8fd4db6c534d034448b9
+    m_Address: Card_Archer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 458af2c96f1c32640b231dad8b55635a
+    m_Address: Card_Crossbowman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4191572131e7c04e82759ae36fd9dce
+    m_Address: Card_Knight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d92cfd627ec51845b832a1b186e2534
+    m_Address: Card_Knight+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5e4e5b5abfaa8e4fbb122c78293d1ab
+    m_Address: Card_AntiHorse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b90bb1314ade35d40a135b127c5b04ce
+    m_Address: Card_AntiHorseFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67849cf8d6874014195e9c1b1f4e6d1f
+    m_Address: Card_Knight+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b16b545f914d0dc4bb550f8a92d4a41f
+    m_Address: Card_KnightFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cea308c5abf14f248a31c95bf4bc5eb6
+    m_Address: Card_AntiHorse+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f864b598f15e52540b495f666b0635fe
+    m_Address: Card_SwordsmanFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1f624c4d9c5660448e2f240e3b7ac77
+    m_Address: Card_Swordsman+FR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffac0a6ba394ca84c913d7f01cb3e69c
+    m_Address: Card_CrossbowmanFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4d660777dd3c5a488bca66346995bf4
+    m_Address: Card_ArcherFR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4651faf23b9fd0c4aa71e88ccc13316f
+    m_Address: Card_AntiHorse+
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a55536f89a8f07b4e8433c2ef76683ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33465d7d3ae16454a940a88a6869f99f, type: 2}

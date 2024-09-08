@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel1_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c2d725183f30abf44bc37feae0fbac7f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 287338037903360
+    m_Localized: "Votre \xE9p\xE9iste est seul. Reculons pour le moment!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287877739970560
+    m_Localized: "Apportez un soutien \xE0 distance \xE0 votre \xE9p\xE9iste!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288120757944320
+    m_Localized: Les chevaliers peuvent charger. Essayez!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288650980884480
+    m_Localized: "Oh non! Nous avons attaqu\xE9 un lancier avec un chevalier."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290362802176000
+    m_Localized: "Les lanciers sont des troupes d\xE9fensives contre les chevaliers
+      et riposteront."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290585880428544
+    m_Localized: "Ce lancier a caus\xE9 assez de d\xE9g\xE2ts. Feu \xE0 volont\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291067541716992
+    m_Localized: "Votre arbal\xE8te doit se recharger et est dans un \xE9tat vuln\xE9rable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291369909092352
+    m_Localized: "Les \xE9p\xE9istes peuvent aussi charger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292090670874624
+    m_Localized: "Lorsque vous tuez une troupe avec une attaque charg\xE9e, votre
+      troupe prendra sa place."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299127790239744
+    m_Localized: "Prot\xE9geons notre arbal\xE8te!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377495684513792
+    m_Localized: Les archers peuvent attaquer dans un rayon de 2 tuiles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377741634306048
+    m_Localized: "Cr\xE9ez de la distance entre notre arbal\xE8te et leur chevalier."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378148955750400
+    m_Localized: "Les arbal\xE8tes ne peuvent pas tirer sur les tuiles voisines.
+      Alors gardez les ennemis \xE0 distance!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379392491388928
+    m_Localized: "Nous ne d\xE9placerons pas notre arbal\xE8te ce tour-ci, afin qu'elle
+      puisse se recharger."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379671823646720
+    m_Localized: "Vous pourriez toujours la d\xE9placer, mais cela retarderait le
+      rechargement."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380269046398976
+    m_Localized: "Pendant le rechargement, l'arbal\xE8te a un bouclier et peut encaisser
+      1 d\xE9g\xE2t suppl\xE9mentaire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381016832081920
+    m_Localized: "Une fois le bouclier bris\xE9, il ne reviendra jamais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381326963113984
+    m_Localized: Attaquez ici!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381360899227648
+    m_Localized: "D\xE9placez-vous ici!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381387822465024
+    m_Localized: "Notre arbal\xE8te s'est recharg\xE9e! Maintenant, nous pourrions
+      tirer \xE0 nouveau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382110744313856
+    m_Localized: "Un ennemi de plus \xE0 \xE9liminer! Finissons-en!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

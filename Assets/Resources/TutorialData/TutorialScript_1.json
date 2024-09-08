@@ -1,0 +1,447 @@
+{
+    "Turns": [
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 1,
+                        "TargetPos": [
+                            -6,
+                            -2
+                        ],
+                        "Instruction": "swordsman_backUp",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 0,
+                        "TargetPos": [
+                            -3,
+                            -3
+                        ],
+                        "Instruction": "archer_support",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 4,
+                        "TargetPos": [
+                            3,
+                            1
+                        ],
+                        "Instruction": "knight_chargeAttack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 6
+                    },
+                    {
+                        "TroopIdx": 4,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "knight_damageReflected",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 7
+                    },
+                    {
+                        "TroopIdx": 4,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "knight_damageReflected2",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 7
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            3,
+                            1
+                        ],
+                        "Instruction": "crossbowman_shoot",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 5
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "vulnerableCrossbowman",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 8
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            6,
+                            -2
+                        ],
+                        "Instruction": "swordsman_protect",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 6
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 6,
+                        "TargetPos": [
+                            -6,
+                            -2
+                        ],
+                        "Instruction": "swordsman_chargeAttack",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 4
+                    },
+                    {
+                        "TroopIdx": 6,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "chargeKill",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 2
+                    },
+                    {
+                        "TroopIdx": 5,
+                        "TargetPos": [
+                            -6,
+                            0
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 9,
+                        "TargetPos": [
+                            2,
+                            0
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 7,
+                        "TargetPos": [
+                            2,
+                            0
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 8,
+                        "TargetPos": [
+                            1,
+                            3
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 0,
+                        "TargetPos": [
+                            -6,
+                            -2
+                        ],
+                        "Instruction": "archer_attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            5,
+                            -1
+                        ],
+                        "Instruction": "swordsman_createDistance",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "crossbowman_firstRadius",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 6
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "crossbowman_reloading",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 6
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "crossbowman_reloading2",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 6
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "crossbowman_shielded",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 6
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "crossbowman_shielded2",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 6
+                    },
+                    {
+                        "TroopIdx": 5,
+                        "TargetPos": [
+                            -5,
+                            -1
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 8,
+                        "TargetPos": [
+                            5,
+                            -1
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 7,
+                        "TargetPos": [
+                            3,
+                            -1
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 9,
+                        "TargetPos": [
+                            -1,
+                            -1
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 0,
+                        "TargetPos": [
+                            -5,
+                            -1
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 5
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            4,
+                            0
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            6,
+                            -2
+                        ],
+                        "Instruction": "crossbowman_reloaded",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 5
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 7,
+                        "TargetPos": [
+                            4,
+                            0
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 9,
+                        "TargetPos": [
+                            -2,
+                            -2
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            4,
+                            0
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 0,
+                        "TargetPos": [
+                            -2,
+                            -2
+                        ],
+                        "Instruction": "finalKill",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 2
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        }
+    ]
+}

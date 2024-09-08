@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel2_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0b5b218e52e9cb54cbdd710c68cd4cb5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33873214701568
+    m_Localized: Move here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33855623790592
+    m_Localized: Attack here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46289696718848
+    m_Localized: Deploy here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46426917568512
+    m_Localized: Let's go over how a battle plays out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46717616390144
+    m_Localized: Before a battle starts, you pick your side and build your deck.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47548294103040
+    m_Localized: Upon entering the battlefield, a random side will be selected to
+      start the battle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48591673360384
+    m_Localized: A turn begins with moving or attacking with your troops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50365918478336
+    m_Localized: The starting player only get's to deploy 1 card in their first turn.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50616502976512
+    m_Localized: To deploy a card, you first have to select it. Select your knight!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51122176655360
+    m_Localized: From now on you can always deploy up to 2 cards, like the enemy
+      just did.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51606320971776
+    m_Localized: You could also choose to deploy no new cards at all.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52625180327936
+    m_Localized: During this phase of your turn you can move or attack with all you
+      current troops.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53094984318976
+    m_Localized: You decide the order in which you act with your troops. Think this
+      through! It might impact your next actions!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53710326464512
+    m_Localized: If you don't want to move a certain troop (e.g. reload crossbow),
+      you can just leave it in place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301917639933952
+    m_Localized: After that you can deploy some more troops on the first row.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7316161507330857980
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2468790805045291907}
+  - component: {fileID: 6931663885298620352}
+  m_Layer: 0
+  m_Name: LevelPresetDataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2468790805045291907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7316161507330857980}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6931663885298620352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7316161507330857980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca560a2fde4105c418544ea79a4fed13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _fileName: LevelPreset_1
+  _shouldUsePresetData: 1
+  _presetData:
+    GameLoop:
+      IsFirstTurn: 1
+      IsAiPlaying: 0
+      TotalTroopsDeployed: 0
+      DeployTroopLimit: 2
+      PlayerSide: 0
+      CurrentGameSide: 0
+      StartingSide: 0
+      CurrentBattlePhase: 0
+      Troops:
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 0
+        CanMove: 1
+        AssetKey: Troop_Swordsman
+        CurrentHexagonCoordinates: fcfffffffeffffff
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 0
+        CanMove: 1
+        AssetKey: Troop_AntiHorse
+        CurrentHexagonCoordinates: f9fffffffdffffff
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 0
+        CanMove: 1
+        AssetKey: Troop_Archer
+        CurrentHexagonCoordinates: f9ffffffffffffff
+      - HP: 2
+        ShieldPoints: 1
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 0
+        CanMove: 1
+        AssetKey: Troop_Crossbowman
+        CurrentHexagonCoordinates: 07000000fdffffff
+      - HP: 3
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 0
+        CanMove: 1
+        AssetKey: Troop_Knight+
+        CurrentHexagonCoordinates: 0200000000000000
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 1
+        CanMove: 1
+        AssetKey: Troop_SwordsmanFR
+        CurrentHexagonCoordinates: 0100000001000000
+      - HP: 2
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 1
+        CanMove: 1
+        AssetKey: Troop_Swordsman+FR
+        CurrentHexagonCoordinates: 0200000002000000
+      - HP: 3
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 1
+        CanMove: 1
+        AssetKey: Troop_Knight+FR
+        CurrentHexagonCoordinates: 0300000003000000
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 1
+        CanMove: 1
+        AssetKey: Troop_ArcherFR
+        CurrentHexagonCoordinates: f9ffffff01000000
+      - HP: 1
+        ShieldPoints: 0
+        ShieldBroken: 0
+        ShouldReload: 0
+        ReloadThisTurn: 0
+        HasActed: 1
+        CanMove: 1
+        AssetKey: Troop_SwordsmanFR
+        CurrentHexagonCoordinates: fbffffff01000000

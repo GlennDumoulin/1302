@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Dutch (nl)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Dutch (nl)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4bc357b974a311a43aabdc257812f2cc
+  m_SerializeEntries:
+  - m_GUID: 337658ff752770e46be761bec79389d8
+    m_Address: GameStringCollection_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c1738612537d634eb60778685bef6bf
+    m_Address: TutorialLevel1_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77e3728b0cd82c54c89e16ce6b65cc36
+    m_Address: TutorialLevel2_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a55536f89a8f07b4e8433c2ef76683ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bfa44b19811f3874f9fab572905a661f, type: 2}
+    - {fileID: 11400000, guid: 4aee4c128430e104089762fd35dbe8e8, type: 2}

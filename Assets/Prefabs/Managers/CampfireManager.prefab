@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4292204418021749713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8486561611063469479}
+  - component: {fileID: 2826946723567610490}
+  m_Layer: 0
+  m_Name: CampfireManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8486561611063469479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4292204418021749713}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2826946723567610490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4292204418021749713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2584f7bf542c28c408171a45fed26569, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _campfire: {fileID: 2796642070310300377, guid: fb9d4baafbaec424e98aea7dfb6431c7,
+    type: 3}
+  _campfireParent: {fileID: 0}
+  _flameSymbol: {fileID: 6433061348624485308, guid: 586721f298168104188fa84a6ee392e9,
+    type: 3}
+  _radialCampfire: {fileID: 1642905699715919205, guid: c6631f35e69508f4a81aefa27e5ba18b,
+    type: 3}
+  _campfireLimit: 3
+  _maxXRange: 10
+  _maxYRange: 1
+  _turnsTillVictory: 2
+  _turnsTillCampfireDies: 4

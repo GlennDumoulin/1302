@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-German (de)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-German (de)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: db61e77e24617fb4bb1bfd46e41d95e2
+  m_SerializeEntries:
+  - m_GUID: b64fcd710223d2b40b33d4e2eb90f8a4
+    m_Address: GameStringCollection_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 472ca37f02c0fc349a8f7f3cff59dcfc
+    m_Address: TutorialLevel1_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28a727c9e8c9da148b90b2714dbc0a7c
+    m_Address: TutorialLevel2_de
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-de
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: a55536f89a8f07b4e8433c2ef76683ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 13ac77544b011d14a8f1c8105ceb1b02, type: 2}
+    - {fileID: 11400000, guid: f6706f128280cf14bb432d9c3a214da1, type: 2}

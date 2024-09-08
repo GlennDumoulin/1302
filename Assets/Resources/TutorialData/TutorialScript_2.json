@@ -1,0 +1,338 @@
+{
+    "Turns": [
+        {
+            "FlemishSide": {
+                "Actions": [],
+                "Deployments": [
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_intro",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_preBattle",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_battleStart",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_turnOrder",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_turnOrder2",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_firstDeployment",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "deployment_selectKnight",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 2,
+                        "TargetPos": [
+                            -4,
+                            -4
+                        ],
+                        "Instruction": "deploy",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [],
+                "Deployments": [
+                    {
+                        "CardIdx": 3,
+                        "TargetPos": [
+                            2,
+                            4
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 4,
+                        "TargetPos": [
+                            -2,
+                            4
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_moveAttack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_moveAttack2",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_moveAttack3",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            4,
+                            4
+                        ],
+                        "Instruction": "move",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 3
+                    }
+                ],
+                "Deployments": [
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_deployment",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            0,
+                            0
+                        ],
+                        "Instruction": "gameloop_deployment2",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": true,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 1,
+                        "TargetPos": [
+                            6,
+                            -4
+                        ],
+                        "Instruction": "deploy",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "CardIdx": 0,
+                        "TargetPos": [
+                            8,
+                            -4
+                        ],
+                        "Instruction": "deploy",
+                        "IsPlayerAction": true,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 3,
+                        "TargetPos": [
+                            0,
+                            4
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    },
+                    {
+                        "TroopIdx": 4,
+                        "TargetPos": [
+                            6,
+                            -4
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 0,
+                        "TargetPos": [
+                            6,
+                            -4
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 1
+                    },
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            0,
+                            4
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 3
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 4,
+                        "TargetPos": [
+                            8,
+                            -4
+                        ],
+                        "Instruction": "",
+                        "IsPlayerAction": false,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 0
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        },
+        {
+            "FlemishSide": {
+                "Actions": [
+                    {
+                        "TroopIdx": 2,
+                        "TargetPos": [
+                            8,
+                            -4
+                        ],
+                        "Instruction": "attack",
+                        "IsPlayerAction": true,
+                        "IsDeploy": false,
+                        "IsInstructionOnly": false,
+                        "InstructionInfo": 6
+                    }
+                ],
+                "Deployments": [],
+                "IsFlemish": true
+            },
+            "FrenchSide": {
+                "Actions": [],
+                "Deployments": [],
+                "IsFlemish": false
+            },
+            "ExplainNextTurn": false
+        }
+    ]
+}

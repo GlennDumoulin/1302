@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TutorialLevel1 Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TutorialLevel1
+  m_TableCollectionNameGuidString: c2d725183f30abf44bc37feae0fbac7f
+  m_Entries:
+  - m_Id: 287338037903360
+    m_Key: swordsman_backUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287877739970560
+    m_Key: archer_support
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288120757944320
+    m_Key: knight_chargeAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288650980884480
+    m_Key: knight_damageReflected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290362802176000
+    m_Key: knight_damageReflected2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290585880428544
+    m_Key: crossbowman_shoot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291067541716992
+    m_Key: vulnerableCrossbowman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291369909092352
+    m_Key: swordsman_chargeAttack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292090670874624
+    m_Key: chargeKill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299127790239744
+    m_Key: swordsman_protect
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377495684513792
+    m_Key: archer_attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377741634306048
+    m_Key: swordsman_createDistance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378148955750400
+    m_Key: crossbowman_firstRadius
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379392491388928
+    m_Key: crossbowman_reloading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379671823646720
+    m_Key: crossbowman_reloading2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380269046398976
+    m_Key: crossbowman_shielded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381016832081920
+    m_Key: crossbowman_shielded2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381326963113984
+    m_Key: attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381360899227648
+    m_Key: move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381387822465024
+    m_Key: crossbowman_reloaded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382110744313856
+    m_Key: finalKill
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2124912977213652994
+  references:
+    version: 2
+    RefIds:
+    - rid: 2124912977213652994
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701698828673

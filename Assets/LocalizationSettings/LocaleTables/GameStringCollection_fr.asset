@@ -1,0 +1,432 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameStringCollection_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: d6dc7a5a8d8b674409ba05059c7cce60, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45625614336
+    m_Localized: Vous gagnez!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529677656064
+    m_Localized: Vous perdez!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677011505319936
+    m_Localized: "D\xE9ployez vos Troupes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677037438701568
+    m_Localized: Terminez votre Tour!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677301767933952
+    m_Localized: "D\xE9placez ou Attaquez!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677351575293952
+    m_Localized: Basculez en Vue Tactique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677376577540096
+    m_Localized: "D\xE9ployez Plus de Troupes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952366166216704
+    m_Localized: "Capturez et D\xE9fendez les Feux de Camp!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952455521669120
+    m_Localized: "Ou Tuez l'Arm\xE9e Ennemie pour Gagner!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8051360444424192
+    m_Localized: Rejouer?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8063986788442112
+    m_Localized: 1302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384904005292032
+    m_Localized: Jouer au Jeu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384958774513664
+    m_Localized: Jouer au Tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384982979842048
+    m_Localized: Galerie de Cartes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385001690632192
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385022200778752
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508078994661376
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508111425019904
+    m_Localized: Effets Sonores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508149647712256
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10526564294828032
+    m_Localized: Retour au Menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10583013490401280
+    m_Localized: Comte de Flandre!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10582992275611648
+    m_Localized: Roi de France!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10608172343468032
+    m_Localized: Choisissez Votre Camp!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862480536346624
+    m_Localized: 'Mouvement:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862513918812160
+    m_Localized: "Port\xE9e:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862536274452480
+    m_Localized: "Comp\xE9tences:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865353005441024
+    m_Localized: '- Charge'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865363814162432
+    m_Localized: '- Attaque dans un Rayon'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865382176825344
+    m_Localized: "- Inflige des d\xE9g\xE2ts aux unit\xE9s de chevaliers si elles
+      attaquent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865423675269120
+    m_Localized: "- Doit recharger apr\xE8s avoir tir\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872469485232128
+    m_Localized: Reprendre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872493405347840
+    m_Localized: "Contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872535763623936
+    m_Localized: Retour au Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216897776685056
+    m_Localized: "\xC9p\xE9iste"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217013224902656
+    m_Localized: "\xC9p\xE9iste d'\xC9lite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216920807608320
+    m_Localized: Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216959940464640
+    m_Localized: Lancier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217082376392704
+    m_Localized: Goedendag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217066786164736
+    m_Localized: "Arbal\xE9trier"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217033001046016
+    m_Localized: Cavalerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217097106788352
+    m_Localized: "Cavalerie d'\xC9lite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221149483929600
+    m_Localized: "Fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221186528022528
+    m_Localized: Flamand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242212557197312
+    m_Localized: 'Artistes 2D/3D:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242255297155072
+    m_Localized: "Chef d'\xE9quipe:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242292404162560
+    m_Localized: 'Programmeurs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242316945035264
+    m_Localized: 'Compositeur:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317595583418368
+    m_Localized: 'AVERTISSEMENT:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317770490089472
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317708728963072
+    m_Localized: "Vous avez encore de la main-d'\u0153uvre \xE0 d\xE9penser. Vous
+      pouvez revenir pour continuer \xE0 construire votre deck, passer au jeu ou
+      randomiser les emplacements restants."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318061125996544
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318091824107520
+    m_Localized: "Al\xE9atoire et Continuer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14884442316079104
+    m_Localized: "Bien jou\xE9!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14888523696832512
+    m_Localized: Continuez!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268968691798016
+    m_Localized: Construisez Votre Deck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15573664560189440
+    m_Localized: Piquier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651224657305600
+    m_Localized: "Pour contrer la cavalerie fran\xE7aise, les troupes flamandes s'arm\xE8rent
+      de Goedendags, signifiant \"bonjour\" ou \"bonne matin\xE9e\" en n\xE9erlandais.\n\r\nL'arme
+      \xE9tait une combinaison d'une massue et d'une lance. Sa double fonctionnalit\xE9
+      en fit une partie vitale de l'arm\xE9e flamande pendant la bataille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651340172632064
+    m_Localized: "Les lances ont jou\xE9 un r\xF4le vital lors de la Bataille de
+      1302. Bien qu'elles soient plus courtes que les piques, leur port\xE9e \xE9tendue
+      permettait aux troupes d'attaquer en toute s\xE9curit\xE9 les troupes de cavalerie
+      \xE0 distance.\n\r\nDe plus, les lanciers pouvaient former de grandes formations
+      d\xE9fensives, rendant difficile pour l'adversaire d'attaquer indemne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651365015494656
+    m_Localized: "Les arbal\xE8tes \xE9taient des armes mortelles \xE0 longue port\xE9e,
+      capables de d\xE9livrer plus de puissance qu'un arc long classique.\n\r\nCependant,
+      l'inconv\xE9nient r\xE9sidait dans la force immense n\xE9cessaire pour recharger
+      l'arbal\xE8te. Ainsi, trois personnes \xE9taient souvent n\xE9cessaires pour
+      recharger une arbal\xE8te en toute s\xE9curit\xE9 sur le champ de bataille.
+      Deux personnes tirent en arri\xE8re la corde de l'arbal\xE8te et une personne
+      tient un bouclier devant les autres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651381792710656
+    m_Localized: "Les archers \xE9taient des troupes habiles \xE0 distance, essentielles
+      pour les arm\xE9es qui devaient attaquer les ennemis de loin.\n\r\nArm\xE9es
+      d'un arc long, ces troupes pouvaient d\xE9livrer des vol\xE9es de fl\xE8ches
+      sur l'ennemi depuis une distance s\xFBre. Habituellement, les archers seraient
+      les premi\xE8res troupes \xE0 attaquer sur le champ de bataille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651395935903744
+    m_Localized: "Les paysans \xE9taient forc\xE9s de trouver et d'utiliser tout
+      ce qui pouvait \xEAtre une arme pour aider lors des batailles. Des haches,
+      couteaux de boucher, fourches, et m\xEAme des armes improvis\xE9es.\r\n\nBien
+      que pauvres, ces unit\xE9s d'infanterie ont montr\xE9 un grand courage face
+      \xE0 des chances insurmontables."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651413128355840
+    m_Localized: "Tr\xE8s fr\xE9quemment, la force offensive principale d'une arm\xE9e
+      \xE9tait constitu\xE9e des milices que les villes utilisaient g\xE9n\xE9ralement.\r\n\nChaque
+      troupe \xE9tait bien form\xE9e et bien \xE9quip\xE9e, ce qui leur permettait
+      de combattre plus efficacement sur le champ de bataille. Cependant, ces soldats
+      \xE9taient plus des volontaires que des combattants \xE0 temps plein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651434225704960
+    m_Localized: "Les troupes de cavalerie n'\xE9taient pas r\xE9serv\xE9es aux bien
+      \xE9quip\xE9s ou nobles.\n\r\nLes troupes de cavalerie plus ordinaires \xE9taient
+      compos\xE9es d'individus issus de divers milieux sociaux. Ces personnes n'\xE9taient
+      pas n\xE9cessairement de haut rang, mais \xE9taient n\xE9anmoins des cavaliers
+      comp\xE9tents pr\xEAts \xE0 servir en tant que guerriers mont\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651448796717056
+    m_Localized: "Bien que peu nombreux, les Flamands disposaient de plusieurs unit\xE9s
+      de cavalerie lors de la Bataille de 1302.\n\r\nBien que moins lourdement arm\xE9s
+      que leurs homologues fran\xE7ais, ils ont pu s'adapter au terrain difficile,
+      l\xE0 o\xF9 leurs homologues fran\xE7ais ne le pouvaient pas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15652891012341760
+    m_Localized: "Lors de la Bataille de 1302, les hallebardiers se sont r\xE9v\xE9l\xE9s
+      inestimables pour contrer les troupes de cavalerie ainsi que toutes tentatives
+      de l'ennemi de charger en avant.\n\r\nAvec une port\xE9e encore plus grande
+      par rapport aux lances, il devenait presque impossible pour une arm\xE9e en
+      marche ou une cavalerie d'attaquer indemne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653229102604288
+    m_Localized: "La cavalerie fran\xE7aise d'\xE9lite \xE9tait la troupe la plus
+      forte du bataillon. Des chevaliers lourdement arm\xE9s mont\xE9s sur de puissants
+      destriers.\r\n\nEn raison de leur force immense et de leur vitesse agile, ils
+      \xE9taient souvent la force principale pour vaincre l'arm\xE9e adverse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653102635950080
+    m_Localized: "Les lances ont jou\xE9 un r\xF4le vital lors de la Bataille de
+      1302. Bien qu'elles soient plus courtes que les piques, leur port\xE9e \xE9tendue
+      permettait aux troupes d'attaquer en toute s\xE9curit\xE9 les troupes de cavalerie
+      \xE0 distance.\n\r\nDe plus, les lanciers pouvaient former de grandes formations
+      d\xE9fensives, rendant difficile pour l'adversaire d'attaquer indemne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653115474714624
+    m_Localized: "Les arbal\xE8tes \xE9taient des armes mortelles \xE0 longue port\xE9e,
+      capables de d\xE9livrer plus de puissance qu'un arc long classique.\n\r\nCependant,
+      l'inconv\xE9nient r\xE9sidait dans la force immense n\xE9cessaire pour recharger
+      l'arbal\xE8te. Ainsi, trois personnes \xE9taient souvent n\xE9cessaires pour
+      recharger une arbal\xE8te en toute s\xE9curit\xE9 sur le champ de bataille.
+      Deux personnes tirent en arri\xE8re la corde de l'arbal\xE8te et une personne
+      tient un bouclier devant les autres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653137054408704
+    m_Localized: "Les archers \xE9taient des troupes habiles \xE0 distance, essentielles
+      pour les arm\xE9es qui devaient attaquer les ennemis de loin.\n\r\nArm\xE9es
+      d'un arc long, ces troupes pouvaient d\xE9livrer des vol\xE9es de fl\xE8ches
+      sur l'ennemi depuis une distance s\xFBre. Habituellement, les archers seraient
+      les premi\xE8res troupes \xE0 attaquer sur le champ de bataille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653156092354560
+    m_Localized: "Les paysans \xE9taient forc\xE9s de trouver et d'utiliser tout
+      ce qui pouvait \xEAtre une arme pour aider lors des batailles. Des haches,
+      couteaux de boucher, fourches, et m\xEAme des armes improvis\xE9es.\r\n\nBien
+      que pauvres, ces unit\xE9s d'infanterie ont montr\xE9 un grand courage face
+      \xE0 des chances insurmontables."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653177336504320
+    m_Localized: "Tr\xE8s fr\xE9quemment, la force offensive principale d'une arm\xE9e
+      \xE9tait constitu\xE9e des milices que les villes utilisaient g\xE9n\xE9ralement.\r\n\nChaque
+      troupe \xE9tait bien form\xE9e et bien \xE9quip\xE9e, ce qui leur permettait
+      de combattre plus efficacement sur le champ de bataille. Cependant, ces soldats
+      \xE9taient plus des volontaires que des combattants \xE0 temps plein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653210152738816
+    m_Localized: "Les troupes de cavalerie n'\xE9taient pas r\xE9serv\xE9es aux bien
+      \xE9quip\xE9s ou nobles.\n\r\nLes troupes de cavalerie plus ordinaires \xE9taient
+      compos\xE9es d'individus issus de divers milieux sociaux. Ces personnes n'\xE9taient
+      pas n\xE9cessairement de haut rang, mais \xE9taient n\xE9anmoins des cavaliers
+      comp\xE9tents pr\xEAts \xE0 servir en tant que guerriers mont\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15671024426553344
+    m_Localized: Piquier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938915840008192
+    m_Localized: Ajoutez ou retirez des troupes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938951952965632
+    m_Localized: "Passez aux niveaux sup\xE9rieurs pour voir d'autres troupes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938969657122816
+    m_Localized: Cliquez sur une carte pour obtenir plus d'informations sur la troupe!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16301956921692160
+    m_Localized: "Propri\xE9taire du Produit:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16300994899349504
+    m_Localized: "Remerciements Sp\xE9ciaux:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16384105633521664
+    m_Localized: "Vous n'avez pas encore jou\xE9 au didacticiel ! Nous vous recommandons
+      vivement de le faire!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395862624149504
+    m_Localized: "Trois camps apparaissent au d\xE9but de chaque partie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395901522124800
+    m_Localized: "Un camp s'\xE9teindra toutes les quatre tours jusqu'\xE0 ce qu'il
+      n'en reste qu'un. Consultez le cadran pour voir lequel!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395918844600320
+    m_Localized: "Capturez tous les camps restants et d\xE9fendez-vous pendant deux
+      tours pour gagner!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395935835725824
+    m_Localized: "De la boue appara\xEEtra de mani\xE8re al\xE9atoire et restera
+      sur le plateau pendant plusieurs tours."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395947315535872
+    m_Localized: "Si vous \xEAtes coinc\xE9 dans la boue, vous ne pouvez pas vous
+      d\xE9placer pendant un tour!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

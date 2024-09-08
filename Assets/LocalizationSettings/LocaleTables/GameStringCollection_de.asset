@@ -1,0 +1,427 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameStringCollection_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: d6dc7a5a8d8b674409ba05059c7cce60, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45625614336
+    m_Localized: Du gewinnst!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529677656064
+    m_Localized: Du verlierst!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677011505319936
+    m_Localized: Truppen einsetzen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677037438701568
+    m_Localized: Beende deinen Zug!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677301767933952
+    m_Localized: Bewegen oder Angreifen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677351575293952
+    m_Localized: Zur taktischen Ansicht umschalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677376577540096
+    m_Localized: Setze mehr Truppen ein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952366166216704
+    m_Localized: Erobere und verteidige Lagerfeuer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952455521669120
+    m_Localized: Oder eliminiere die Armee des Feindes, um zu gewinnen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8051360444424192
+    m_Localized: Nochmal spielen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8063986788442112
+    m_Localized: 1302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384904005292032
+    m_Localized: Spiel starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384958774513664
+    m_Localized: Tutorial starten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384982979842048
+    m_Localized: Kartengalerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385001690632192
+    m_Localized: Einstellungen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385022200778752
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508078994661376
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508111425019904
+    m_Localized: Soundeffekte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508149647712256
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10526564294828032
+    m_Localized: "Zur\xFCck zum Men\xFC?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10583013490401280
+    m_Localized: Graf von Flandern!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10582992275611648
+    m_Localized: "K\xF6nig von Frankreich!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10608172343468032
+    m_Localized: "W\xE4hle Deine Seite!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862480536346624
+    m_Localized: 'Bewegung:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862513918812160
+    m_Localized: 'Reichweite:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862536274452480
+    m_Localized: "F\xE4higkeiten:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865363814162432
+    m_Localized: '- Angriff im Radius'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865382176825344
+    m_Localized: "- F\xFCgt Rittereinheiten Schaden zu, wenn sie angreifen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865423675269120
+    m_Localized: "- Muss nach dem Schie\xDFen nachladen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865353005441024
+    m_Localized: '- Angriff'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872469485232128
+    m_Localized: Fortsetzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872493405347840
+    m_Localized: Steuerung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872535763623936
+    m_Localized: "Zur\xFCck zum Men\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216897776685056
+    m_Localized: "Schwertk\xE4mpfer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217013224902656
+    m_Localized: "Elite-Schwertk\xE4mpfer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216920807608320
+    m_Localized: "Bogensch\xFCtze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216959940464640
+    m_Localized: "Speertr\xE4ger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217082376392704
+    m_Localized: Goedendag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217066786164736
+    m_Localized: "Armbrustsch\xFCtze"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217097106788352
+    m_Localized: Elite-Kavallerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217033001046016
+    m_Localized: Kavallerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221149483929600
+    m_Localized: "Franz\xF6sisch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221186528022528
+    m_Localized: "Fl\xE4misch"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242212557197312
+    m_Localized: '2D/3D Artist:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242255297155072
+    m_Localized: 'Teamleiter:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242292404162560
+    m_Localized: 'Programmierer:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242316945035264
+    m_Localized: 'Komponist:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317595583418368
+    m_Localized: 'WARNUNG:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317770490089472
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317708728963072
+    m_Localized: "Du hast immer noch Arbeitskraft zur Verf\xFCgung. Du kannst zur\xFCckgehen,
+      um weiter an deinem Deck zu arbeiten, zum Spiel \xFCbergehen oder die verbleibenden
+      Pl\xE4tze zuf\xE4llig gestalten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318061125996544
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318091824107520
+    m_Localized: "Zuf\xE4llig und Weiter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14884442316079104
+    m_Localized: Gut gemacht!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14888523696832512
+    m_Localized: Weiter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268968691798016
+    m_Localized: Baue Dein Deck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15573664560189440
+    m_Localized: Pikenier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651224657305600
+    m_Localized: "Um der franz\xF6sischen Kavallerie entgegenzutreten, bewaffneten
+      sich fl\xE4mische Truppen mit Goedendags, was auf Niederl\xE4ndisch \"guten
+      Tag\" oder \"guten Morgen\" bedeutet.\n\r\nDie Waffe war eine Kombination aus
+      Keule und Speer. Ihre doppelte Funktionalit\xE4t machte sie zu einem unverzichtbaren
+      Bestandteil der fl\xE4mischen Armee w\xE4hrend der Schlacht."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651340172632064
+    m_Localized: "Lanzen spielten eine entscheidende Rolle in der Schlacht von 1302.
+      Obwohl k\xFCrzer als Piken, erm\xF6glichte ihre Reichweite den Truppen, sicher
+      aus der Ferne gegen Kavallerietruppen vorzugehen.\r\n\nZus\xE4tzlich konnten
+      Lanzenk\xE4mpfer gro\xDFe defensive Formationen bilden, was es der gegnerischen
+      Seite erschwerte, unversehrt anzugreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651365015494656
+    m_Localized: "Armbr\xFCste waren t\xF6dliche Fernwaffen, die in der Lage waren,
+      mehr Kraft zu entwickeln als ein normaler Langbogen.\r\n\nDer Nachteil bestand
+      jedoch in der enormen Kraft, die zum Nachladen der Armbrust erforderlich war.
+      Daher waren oft drei Personen erforderlich, um eine Armbrust sicher auf dem
+      Schlachtfeld nachzuladen. Zwei Personen ziehen die Sehne zur\xFCck, und eine
+      Person h\xE4lt einen Schild vor die anderen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651381792710656
+    m_Localized: "Bogensch\xFCtzen waren geschickte Fernkampftuppen, unverzichtbar
+      f\xFCr Armeen, die Feinde aus der Ferne angreifen mussten.\n\r\nBewaffnet mit
+      einem Langbogen konnten diese Truppen Salven von Pfeilen aus sicherer Entfernung
+      auf den Feind abfeuern. Normalerweise w\xE4ren die Bogensch\xFCtzen die ersten
+      Truppen, die auf dem Schlachtfeld angreifen w\xFCrden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651395935903744
+    m_Localized: "Bauern wurden gezwungen, alles zu finden und zu nutzen, was als
+      Waffe dienen k\xF6nnte, um in Schlachten zu helfen. Von \xC4xten, Fleischermessern,
+      Heugabeln bis hin zu improvisierten Waffen.\n\r\nObwohl arm, zeigten diese
+      Infanterieeinheiten gro\xDFen Mut gegen\xFCber \xFCberw\xE4ltigenden Chancen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651413128355840
+    m_Localized: "Sehr h\xE4ufig bestand die Hauptangriffskraft einer Armee aus den
+      Milizen, die St\xE4dte normalerweise besch\xE4ftigten.\n\r\nJede Truppe war
+      gut ausgebildet und gut ausgestattet, was es ihnen erm\xF6glichte, auf dem
+      Schlachtfeld effektiver zu k\xE4mpfen. Diese Soldaten waren jedoch eher Freiwillige
+      als Vollzeitsoldaten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651434225704960
+    m_Localized: "Kavallerietruppen waren nicht nur auf die gut ausger\xFCsteten
+      oder Adligen beschr\xE4nkt.\n\r\nDurchschnittliche Kavallerietruppen bestanden
+      aus Individuen aus verschiedenen sozialen Hintergr\xFCnden. Diese Menschen
+      waren nicht unbedingt von hoher Stellung, waren aber dennoch erfahrene Reiter,
+      die bereit waren, als berittene Krieger zu dienen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651448796717056
+    m_Localized: "Obwohl in geringer Zahl, hatte die fl\xE4mische Armee w\xE4hrend
+      der Schlacht von 1302 mehrere Kavallerieeinheiten.\r\n\nObwohl nicht so stark
+      gepanzert wie ihre franz\xF6sischen Gegenspieler, konnten sie sich an das anspruchsvolle
+      Gel\xE4nde anpassen, wo ihre franz\xF6sischen Kollegen es nicht konnten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15652891012341760
+    m_Localized: "W\xE4hrend der Schlacht von 1302 waren Spie\xDFtr\xE4ger unsch\xE4tzbar
+      wertvoll im Kampf gegen Kavallerietruppen und bei Versuchen des Feindes, voranzust\xFCrmen.\n\r\nMit
+      einer noch l\xE4ngeren Reichweite im Vergleich zu Speeren wurde es nahezu unm\xF6glich
+      f\xFCr eine vorr\xFCckende Armee oder Kavallerie, unversehrt anzugreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653229102604288
+    m_Localized: "Die elite franz\xF6sische Kavallerie galt als die st\xE4rkste Truppe
+      im Bataillon. Schwer gepanzerte Ritter auf m\xE4chtigen Kriegsrossen.\r\n\nAufgrund
+      ihrer immensen St\xE4rke und ihrer wendigen Geschwindigkeit waren sie oft die
+      Hauptkraft bei der Niederlage des gegnerischen Heeres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653102635950080
+    m_Localized: "Lanzen spielten eine entscheidende Rolle in der Schlacht von 1302.
+      Obwohl k\xFCrzer als Piken, erm\xF6glichte ihre Reichweite den Truppen, sicher
+      aus der Ferne gegen Kavallerietruppen vorzugehen.\r\n\nZus\xE4tzlich konnten
+      Lanzenk\xE4mpfer gro\xDFe defensive Formationen bilden, was es der gegnerischen
+      Seite erschwerte, unversehrt anzugreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653115474714624
+    m_Localized: "Armbr\xFCste waren t\xF6dliche Fernwaffen, die in der Lage waren,
+      mehr Kraft zu entwickeln als ein normaler Langbogen.\r\n\nDer Nachteil bestand
+      jedoch in der enormen Kraft, die zum Nachladen der Armbrust erforderlich war.
+      Daher waren oft drei Personen erforderlich, um eine Armbrust sicher auf dem
+      Schlachtfeld nachzuladen. Zwei Personen ziehen die Sehne zur\xFCck, und eine
+      Person h\xE4lt einen Schild vor die anderen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653137054408704
+    m_Localized: "Bogensch\xFCtzen waren geschickte Fernkampftuppen, unverzichtbar
+      f\xFCr Armeen, die Feinde aus der Ferne angreifen mussten.\n\r\nBewaffnet mit
+      einem Langbogen konnten diese Truppen Salven von Pfeilen aus sicherer Entfernung
+      auf den Feind abfeuern. Normalerweise w\xE4ren die Bogensch\xFCtzen die ersten
+      Truppen, die auf dem Schlachtfeld angreifen w\xFCrden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653156092354560
+    m_Localized: "Bauern wurden gezwungen, alles zu finden und zu nutzen, was als
+      Waffe dienen k\xF6nnte, um in Schlachten zu helfen. Von \xC4xten, Fleischermessern,
+      Heugabeln bis hin zu improvisierten Waffen.\n\r\nObwohl arm, zeigten diese
+      Infanterieeinheiten gro\xDFen Mut gegen\xFCber \xFCberw\xE4ltigenden Chancen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653177336504320
+    m_Localized: "Sehr h\xE4ufig bestand die Hauptangriffskraft einer Armee aus den
+      Milizen, die St\xE4dte normalerweise besch\xE4ftigten.\n\r\nJede Truppe war
+      gut ausgebildet und gut ausgestattet, was es ihnen erm\xF6glichte, auf dem
+      Schlachtfeld effektiver zu k\xE4mpfen. Diese Soldaten waren jedoch eher Freiwillige
+      als Vollzeitsoldaten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653210152738816
+    m_Localized: "Kavallerietruppen waren nicht nur auf die gut ausger\xFCsteten
+      oder Adligen beschr\xE4nkt.\n\r\nDurchschnittliche Kavallerietruppen bestanden
+      aus Individuen aus verschiedenen sozialen Hintergr\xFCnden. Diese Menschen
+      waren nicht unbedingt von hoher Stellung, waren aber dennoch erfahrene Reiter,
+      die bereit waren, als berittene Krieger zu dienen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15671024426553344
+    m_Localized: Pikenier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938915840008192
+    m_Localized: "F\xFCge Truppen hinzu oder entferne sie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938951952965632
+    m_Localized: Wechsle die Stufen, um andere Truppen zu sehen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938969657122816
+    m_Localized: "Klicke auf eine Karte, um mehr Informationen \xFCber die Truppe
+      zu erhalten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16300994899349504
+    m_Localized: 'Besonderer Dank:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16301956921692160
+    m_Localized: 'Produktbesitzer:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16384105633521664
+    m_Localized: Du hast das Tutorial noch nicht gespielt! Wir empfehlen es dringend!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395862624149504
+    m_Localized: "Am Anfang jeder Partie erscheinen drei Lagerpl\xE4tze."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395901522124800
+    m_Localized: "Ein Lagerplatz erlischt alle vier Z\xFCge, bis nur noch einer \xFCbrig
+      ist. \xDCberpr\xFCfen Sie die Anzeige, um zu sehen, welcher das ist!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395918844600320
+    m_Localized: "Erobern Sie alle verbleibenden Lagerpl\xE4tze und verteidigen Sie
+      sich zwei Z\xFCge lang, um zu gewinnen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395935835725824
+    m_Localized: "Schlamm wird zuf\xE4llig erscheinen und f\xFCr mehrere Z\xFCge
+      auf dem Spielfeld bleiben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395947315535872
+    m_Localized: "Wenn Sie im Schlamm stecken, k\xF6nnen Sie sich f\xFCr einen Zug
+      nicht bewegen!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

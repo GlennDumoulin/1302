@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameStringCollection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameStringCollection
+  m_TableCollectionNameGuidString: d6dc7a5a8d8b674409ba05059c7cce60
+  m_Entries:
+  - m_Id: 45625614336
+    m_Key: youWinKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529677656064
+    m_Key: youLoseKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677011505319936
+    m_Key: 'deployKey
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677037438701568
+    m_Key: endTurnKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677301767933952
+    m_Key: moveAttackKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677351575293952
+    m_Key: tacticalViewKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677376577540096
+    m_Key: moveToDeployKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952366166216704
+    m_Key: captureCampfireKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952455521669120
+    m_Key: killEnemyKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8051360444424192
+    m_Key: playAgainKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8063986788442112
+    m_Key: appName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384904005292032
+    m_Key: 'playGameKey
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384958774513664
+    m_Key: playTutorialKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384982979842048
+    m_Key: cardGalleryKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385001690632192
+    m_Key: settingsKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385022200778752
+    m_Key: creditsKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508078994661376
+    m_Key: musicKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508111425019904
+    m_Key: soundEffectsKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508149647712256
+    m_Key: vibrationKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10526564294828032
+    m_Key: backToMain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10582992275611648
+    m_Key: chooseFrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10583013490401280
+    m_Key: chooseFlemish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10608172343468032
+    m_Key: chooseYourSideKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862480536346624
+    m_Key: movementKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862513918812160
+    m_Key: rangeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862536274452480
+    m_Key: abilityKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865353005441024
+    m_Key: chargeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865363814162432
+    m_Key: radiusKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865382176825344
+    m_Key: damageReflectKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865423675269120
+    m_Key: reloadKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872469485232128
+    m_Key: resumeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872493405347840
+    m_Key: controlsKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872535763623936
+    m_Key: returnToMenuKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216897776685056
+    m_Key: swordsmanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216920807608320
+    m_Key: archerKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216959940464640
+    m_Key: antihorseKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217013224902656
+    m_Key: swordsmanPlusKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217033001046016
+    m_Key: knightKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217066786164736
+    m_Key: crossbowmanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217082376392704
+    m_Key: antihorsePlusKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217097106788352
+    m_Key: knightPlusKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221149483929600
+    m_Key: frenchKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221186528022528
+    m_Key: flemishKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242212557197312
+    m_Key: artistKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242255297155072
+    m_Key: teamLeadKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242292404162560
+    m_Key: programmerKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242316945035264
+    m_Key: composerKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317595583418368
+    m_Key: warningKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317708728963072
+    m_Key: warningExplanationKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317770490089472
+    m_Key: returnKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318061125996544
+    m_Key: toBattleKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318091824107520
+    m_Key: fillToBattleKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14884442316079104
+    m_Key: wellDoneKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14888523696832512
+    m_Key: continueKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268968691798016
+    m_Key: buildDeckKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651224657305600
+    m_Key: FLAntiHorse+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651340172632064
+    m_Key: FLAntiHorseKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651365015494656
+    m_Key: FLCrossbowKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651381792710656
+    m_Key: FLArcherKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651395935903744
+    m_Key: FLSwordsmanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651413128355840
+    m_Key: FLSwordsman+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651434225704960
+    m_Key: FLKnightKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651448796717056
+    m_Key: FLKnight+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15652891012341760
+    m_Key: FRAntiHorse+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653102635950080
+    m_Key: FRAntiHorseKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653115474714624
+    m_Key: FRCrossbowKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653137054408704
+    m_Key: FRArcherKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653156092354560
+    m_Key: FRSwordsmanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653177336504320
+    m_Key: FRSwordsman+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653210152738816
+    m_Key: FRKnightKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653229102604288
+    m_Key: FRKnight+Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15671024426553344
+    m_Key: pikesmanKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938915840008192
+    m_Key: deckInfoOneKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938951952965632
+    m_Key: deckInfoTwoKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938969657122816
+    m_Key: deckInfoThreeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15573664560189440
+    m_Key: 'pikemanKey
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16300994899349504
+    m_Key: specialThanksKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16301956921692160
+    m_Key: productOwnerKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16384105633521664
+    m_Key: tutorialWarningKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395862624149504
+    m_Key: campTutorialOneKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395901522124800
+    m_Key: campTutorialTwoKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395918844600320
+    m_Key: campTutorialThreeKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395935835725824
+    m_Key: campTutorialFourKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395947315535872
+    m_Key: campTutorialFiveKey
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7205928158780981272
+  references:
+    version: 2
+    RefIds:
+    - rid: 7205928158780981272
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1698052862128

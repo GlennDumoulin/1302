@@ -1,0 +1,65 @@
+{
+    "GameLoop": {
+        "IsFirstTurn": true,
+        "IsAiPlaying": false,
+        "TotalTroopsDeployed": 0,
+        "DeployTroopLimit": 2,
+        "PlayerSide": 0,
+        "CurrentGameSide": 0,
+        "StartingSide": 0,
+        "CurrentBattlePhase": 1,
+        "Troops": [],
+        "PlayerCards": [
+            {
+                "CardSide": 0,
+                "IsSelected": false,
+                "AssetKey": "Card_Archer"
+            },
+            {
+                "CardSide": 0,
+                "IsSelected": false,
+                "AssetKey": "Card_AntiHorse"
+            },
+            {
+                "CardSide": 0,
+                "IsSelected": false,
+                "AssetKey": "Card_Knight+"
+            }
+        ],
+        "EnemyCards": [
+            {
+                "CardSide": 1,
+                "IsSelected": false,
+                "AssetKey": "Card_CrossbowmanFR"
+            },
+            {
+                "CardSide": 1,
+                "IsSelected": false,
+                "AssetKey": "Card_Knight+FR"
+            }
+        ]
+    },
+    "Campfires": {
+        "TurnsTillVictory": 2,
+        "TurnsTillCampfireDies": 5,
+        "CountdownCounter": 0,
+        "SideThatCaptured": 0,
+        "TurnCounter": 0,
+        "SwitchCounter": 0,
+        "CampfiresCappedByPlayer": 0,
+        "StartCounter": false,
+        "WaitTurnAfterDestroy": false,
+        "CampfirePositions": []
+    },
+    "RainMud": {
+        "IsActive": false,
+        "TurnsWithoutRain": 0,
+        "TurnsWithMud": 0,
+        "MaxMudTurns": 3,
+        "CooldownCounter": 0,
+        "CooldownLimit": 1,
+        "OnCooldown": false,
+        "IsRaining": false,
+        "MudPositions": []
+    }
+}

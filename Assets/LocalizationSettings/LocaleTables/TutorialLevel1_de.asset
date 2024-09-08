@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel1_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: c2d725183f30abf44bc37feae0fbac7f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 287338037903360
+    m_Localized: "Dein Schwertk\xE4mpfer ist auf sich allein gestellt. Lass uns jetzt
+      zur\xFCckziehen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287877739970560
+    m_Localized: "Gib deinem Schwertk\xE4mpfer etwas Fernunterst\xFCtzung!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288120757944320
+    m_Localized: "Ritter k\xF6nnen angreifen. Probier es aus!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288650980884480
+    m_Localized: "Oh nein! Wir haben einen Speertr\xE4ger mit einem Ritter angegriffen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290362802176000
+    m_Localized: "Speertr\xE4ger sind defensive Truppen gegen Ritter und werden zur\xFCckschlagen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290585880428544
+    m_Localized: "Der Speertr\xE4ger hat genug Schaden verursacht. Feuere frei!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291067541716992
+    m_Localized: Deine Armbrust muss nachladen und ist in einem verwundbaren Zustand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291369909092352
+    m_Localized: "Schwertk\xE4mpfer k\xF6nnen auch angreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292090670874624
+    m_Localized: "Wenn du eine Truppe mit einem Angriff t\xF6test, wird deine Truppe
+      ihren Platz einnehmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299127790239744
+    m_Localized: "Lass uns unseren Armbrusttr\xE4ger sch\xFCtzen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377495684513792
+    m_Localized: "Bogensch\xFCtzen k\xF6nnen in einem 2-Feld-Radius angreifen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377741634306048
+    m_Localized: Schaffe etwas Abstand zwischen unserer Armbrust und dem Ritter des
+      Gegners.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378148955750400
+    m_Localized: "Armbr\xFCste k\xF6nnen nicht auf benachbarte Felder schie\xDFen.
+      Halte die Feinde fern!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379392491388928
+    m_Localized: Wir bewegen unsere Armbrust in diesem Zug nicht, damit sie nachladen
+      kann.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379671823646720
+    m_Localized: "Du k\xF6nntest sie immer noch bewegen, aber das verz\xF6gert das
+      Nachladen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380269046398976
+    m_Localized: "W\xE4hrend des Nachladens hat die Armbrust einen Schild und kann
+      1 zus\xE4tzlichen Schaden aufnehmen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381016832081920
+    m_Localized: "Sobald der Schild gebrochen ist, kommt er nicht zur\xFCck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381326963113984
+    m_Localized: Greife hier an!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381360899227648
+    m_Localized: Bewege dich hierhin!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381387822465024
+    m_Localized: "Unsere Armbrust hat nachgeladen! Jetzt k\xF6nnten wir wieder schie\xDFen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382110744313856
+    m_Localized: "Noch ein Feind \xFCbrig! Lass uns das beenden!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel2_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 0b5b218e52e9cb54cbdd710c68cd4cb5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33855623790592
+    m_Localized: Val hier aan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33873214701568
+    m_Localized: Verplaats hierheen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46289696718848
+    m_Localized: Hier inzetten!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46426917568512
+    m_Localized: Laten we bekijken hoe een gevecht verloopt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46717616390144
+    m_Localized: Voordat een gevecht begint, kies je jouw zijde en stel je je deck
+      samen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47548294103040
+    m_Localized: Bij het betreden van het slagveld wordt willekeurig bepaald welke
+      zijde het gevecht begint.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48591673360384
+    m_Localized: Een beurt begint met bewegen of aanvallen met je troepen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50365918478336
+    m_Localized: De startspeler mag in zijn eerste beurt slechts 1 kaart inzetten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50616502976512
+    m_Localized: Om een kaart in te zetten, moet je deze eerst selecteren. Selecteer
+      je ridder!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51122176655360
+    m_Localized: Vanaf nu kun je altijd maximaal 2 kaarten inzetten, zoals de vijand
+      zojuist heeft gedaan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51606320971776
+    m_Localized: Je kunt er ook voor kiezen helemaal geen nieuwe kaarten in te zetten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52625180327936
+    m_Localized: Tijdens deze fase van je beurt kun je bewegen of aanvallen met al
+      je huidige troepen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53094984318976
+    m_Localized: Jij bepaalt de volgorde waarin je troepen handelen. Denk hier goed
+      over na! Het kan invloed hebben op je volgende acties!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53710326464512
+    m_Localized: Als je een bepaalde troep niet wilt verplaatsen (bijv. kruisboog
+      herladen), kun je deze gewoon op zijn plaats laten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301917639933952
+    m_Localized: Daarna kun je nog meer troepen inzetten op de eerste rij.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

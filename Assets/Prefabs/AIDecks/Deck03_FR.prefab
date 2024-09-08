@@ -1,0 +1,408 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3094098370522597636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1167377689641015045}
+  m_Layer: 0
+  m_Name: Deck03_FR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1167377689641015045
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3094098370522597636}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 679.7105, y: 354.73605, z: -66.37488}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5540821849490431466}
+  - {fileID: 2157766031977979113}
+  - {fileID: 2355015967598347641}
+  - {fileID: 5298119564817891884}
+  - {fileID: 635972807295161220}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &71922516142612809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1167377689641015045}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_Name
+      value: French_Knight+
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 67849cf8d6874014195e9c1b1f4e6d1f, type: 3}
+--- !u!4 &5540821849490431466 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+    type: 3}
+  m_PrefabInstance: {fileID: 71922516142612809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &404693483552865935
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1167377689641015045}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_Name
+      value: French_Swordsmen+
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b1f624c4d9c5660448e2f240e3b7ac77, type: 3}
+--- !u!4 &5298119564817891884 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+    type: 3}
+  m_PrefabInstance: {fileID: 404693483552865935}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4956243130756312871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1167377689641015045}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+        type: 3}
+      propertyPath: m_Name
+      value: French_Swordsmen+ (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b1f624c4d9c5660448e2f240e3b7ac77, type: 3}
+--- !u!4 &635972807295161220 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: b1f624c4d9c5660448e2f240e3b7ac77,
+    type: 3}
+  m_PrefabInstance: {fileID: 4956243130756312871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5902703976824070218
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1167377689641015045}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+        type: 3}
+      propertyPath: m_Name
+      value: French_Knight+ (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 67849cf8d6874014195e9c1b1f4e6d1f, type: 3}
+--- !u!4 &2157766031977979113 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: 67849cf8d6874014195e9c1b1f4e6d1f,
+    type: 3}
+  m_PrefabInstance: {fileID: 5902703976824070218}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7833382303157156314
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1167377689641015045}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+        type: 3}
+      propertyPath: m_Name
+      value: French_Crossbowmen
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ffac0a6ba394ca84c913d7f01cb3e69c, type: 3}
+--- !u!4 &2355015967598347641 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: ffac0a6ba394ca84c913d7f01cb3e69c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7833382303157156314}
+  m_PrefabAsset: {fileID: 0}

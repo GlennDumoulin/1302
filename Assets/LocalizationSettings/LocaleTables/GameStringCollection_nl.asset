@@ -1,0 +1,471 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameStringCollection_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: d6dc7a5a8d8b674409ba05059c7cce60, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 45625614336
+    m_Localized: Jij wint!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529677656064
+    m_Localized: Je verliest!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677011505319936
+    m_Localized: Plaats je Troep(en)!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677037438701568
+    m_Localized: "Be\xEBindig je Beurt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677301767933952
+    m_Localized: Verplaats of Val aan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677351575293952
+    m_Localized: Schakel Tactische Weergave in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7677376577540096
+    m_Localized: Deployeer Meer Troepen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952366166216704
+    m_Localized: Verover en Verdedig Kampvuren!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952455521669120
+    m_Localized: Of Dood het Leger van de Vijand om te Winnen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8051360444424192
+    m_Localized: Opnieuw spelen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8063986788442112
+    m_Localized: 1302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384904005292032
+    m_Localized: Speel Spel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384958774513664
+    m_Localized: Speel Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8384982979842048
+    m_Localized: Kaartengalerij
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385001690632192
+    m_Localized: Instellingen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8385022200778752
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508078994661376
+    m_Localized: Muziek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508111425019904
+    m_Localized: Geluidseffecten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10508149647712256
+    m_Localized: Trilling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10526564294828032
+    m_Localized: Terug naar Menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10583013490401280
+    m_Localized: Graaf van Vlaanderen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10582992275611648
+    m_Localized: Koning van Frankrijk!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10608172343468032
+    m_Localized: Kies Je Kant!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862480536346624
+    m_Localized: 'Beweging:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862513918812160
+    m_Localized: 'Bereik:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10862536274452480
+    m_Localized: 'Vaardigheden:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865363814162432
+    m_Localized: '- Aanval in een Straal'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865353005441024
+    m_Localized: '- Bestorming'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865382176825344
+    m_Localized: '- Veroorzaakt schade aan Ridder-eenheden als ze aanvallen'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10865423675269120
+    m_Localized: '- Moet herladen na het vuren'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872469485232128
+    m_Localized: Hervatten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872493405347840
+    m_Localized: Besturing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10872535763623936
+    m_Localized: Terug naar Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216897776685056
+    m_Localized: Zwaardvechter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217013224902656
+    m_Localized: Elite Zwaardvechter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216920807608320
+    m_Localized: Boogschutter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11216959940464640
+    m_Localized: Speerman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217082376392704
+    m_Localized: Goedendag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217066786164736
+    m_Localized: Kruisboogschutter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217033001046016
+    m_Localized: Cavalerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11217097106788352
+    m_Localized: Elite Cavalerie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221149483929600
+    m_Localized: Frans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11221186528022528
+    m_Localized: Vlaams
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242212557197312
+    m_Localized: '2D/3D Artiesten:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242255297155072
+    m_Localized: 'Teamleider:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242292404162560
+    m_Localized: 'Programmeurs:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11242316945035264
+    m_Localized: 'Componist:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317595583418368
+    m_Localized: 'WAARSCHUWING:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317770490089472
+    m_Localized: Terug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11317708728963072
+    m_Localized: Je hebt nog mankracht te besteden. Je kunt teruggaan om verder te
+      werken aan je dek, doorgaan naar het spel, of de overgebleven vakken willekeurig
+      invullen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318061125996544
+    m_Localized: Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11318091824107520
+    m_Localized: Willekeurig en Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14884442316079104
+    m_Localized: Goed Gedaan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14888523696832512
+    m_Localized: Ga Door!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15268968691798016
+    m_Localized: Bouw Je Deck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15573664560189440
+    m_Localized: Piekenier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651224657305600
+    m_Localized: 'Om de Franse cavalerie tegen te gaan, bewapenden Vlaamse troepen
+      zich met Goedendags, wat "goede dag" of "goede morgen" betekent in het Nederlands.
+
+
+
+      Het
+      wapen was een combinatie van een knots en een speer. Zijn dubbele functionaliteit
+      maakte het een essentieel onderdeel van het Vlaamse leger tijdens de strijd.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651340172632064
+    m_Localized: 'Lansen speelden een cruciale rol in de Slag bij 1302. Hoewel korter
+      dan pieken, stelde hun lange bereik troepen in staat om veilig cavalerietroepen
+      van een afstand aan te vallen.
+
+
+      Bovendien konden lansiers grote defensieve
+      formaties vormen, waardoor het moeilijk werd voor de tegenstander om ongeschonden
+      aan te vallen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651365015494656
+    m_Localized: "Kruisbogen waren dodelijke wapens op lange afstand, in staat om
+      meer kracht te leveren dan een reguliere longbow.\r\n\nEchter, het nadeel was
+      de immense kracht die nodig was om de kruisboog opnieuw te laden. Daarom waren
+      er vaak drie mensen nodig om veilig een kruisboog op het slagveld opnieuw te
+      laden. Twee mensen trekken de pees terug en \xE9\xE9n persoon houdt een schild
+      voor de anderen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651381792710656
+    m_Localized: 'Boogschutters waren bekwame troepen op afstand, essentieel voor
+      legers die vijanden van veraf moesten aanvallen.
+
+
+
+      Gewapend met een
+      longbow konden deze troepen salvo''s pijlen op de vijand afvuren vanaf een
+      veilige afstand. Meestal zouden de boogschutters de eerste troepen zijn die
+      op het slagveld aanvielen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651395935903744
+    m_Localized: "Boeren werden gedwongen alles te vinden en te gebruiken wat een
+      wapen kon zijn om te helpen bij gevechten. Van bijlen, slagersmessen, hooivorken,
+      tot zelfs ge\xEFmproviseerde wapens.\r\n\nOndanks hun armoede toonden deze
+      infanterie-eenheden grote moed tegenover overweldigende kansen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651413128355840
+    m_Localized: 'Zeer vaak was de belangrijkste offensieve kracht van een leger
+      de milities die steden doorgaans in dienst hadden.
+
+
+
+      Elke troep was
+      goed getraind en goed uitgerust, wat hen in staat stelde om effectiever te
+      vechten op het slagveld. Deze soldaten waren echter meer als vrijwilligers
+      dan als fulltime strijders.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651434225704960
+    m_Localized: 'Cavalerietroepen waren niet beperkt tot de goed uitgerusten of
+      de adel.
+
+
+
+      Meer gemiddelde cavalerietroepen bestonden uit individuen
+      met uiteenlopende sociale achtergronden. Deze mensen waren niet per se van
+      hoge status, maar waren desondanks bekwame ruiters die bereid waren als bereden
+      krijgers te dienen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15651448796717056
+    m_Localized: 'Hoewel in beperkt aantal, hadden de Vlamingen tijdens de Slag bij
+      1302 wel enkele cavalerie-eenheden.
+
+
+      Hoewel niet zo zwaar gepantserd
+      als hun Franse tegenhangers, waren ze in staat zich aan te passen aan het uitdagende
+      terrein, waar hun Franse tegenhangers dat niet konden.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15652891012341760
+    m_Localized: 'Tijdens de Slag bij 1302 leverden piekeniers onschatbare bijdragen
+      bij het tegengaan van cavalerietroepen en bij pogingen van de vijand om voorwaarts
+      te stormen.
+
+
+      Met een nog groter bereik in vergelijking met speren was
+      het bijna onmogelijk voor een oprukkend leger of cavalerie om ongedeerd aan
+      te vallen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653229102604288
+    m_Localized: 'De elite Franse cavalerie stond als de sterkste troep in het bataljon.
+      Zwaar gepantserde ridders bovenop krachtige oorlogspaarden.
+
+
+      Vanwege
+      hun immense kracht en behendige snelheid waren ze vaak de belangrijkste kracht
+      in het verslaan van het vijandelijke leger.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653102635950080
+    m_Localized: 'Lansen speelden een cruciale rol in de Slag bij 1302. Hoewel korter
+      dan pieken, stelde hun lange bereik troepen in staat om veilig cavalerietroepen
+      van een afstand aan te vallen.
+
+
+      Bovendien konden lansiers grote defensieve
+      formaties vormen, waardoor het moeilijk werd voor de tegenstander om ongeschonden
+      aan te vallen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653115474714624
+    m_Localized: "Kruisbogen waren dodelijke wapens op lange afstand, in staat om
+      meer kracht te leveren dan een reguliere longbow.\r\n\nEchter, het nadeel was
+      de immense kracht die nodig was om de kruisboog opnieuw te laden. Daarom waren
+      er vaak drie mensen nodig om veilig een kruisboog op het slagveld opnieuw te
+      laden. Twee mensen trekken de pees terug en \xE9\xE9n persoon houdt een schild
+      voor de anderen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653137054408704
+    m_Localized: 'Boogschutters waren bekwame troepen op afstand, essentieel voor
+      legers die vijanden van veraf moesten aanvallen.
+
+
+
+      Gewapend met een
+      longbow konden deze troepen salvo''s pijlen op de vijand afvuren vanaf een
+      veilige afstand. Meestal zouden de boogschutters de eerste troepen zijn die
+      op het slagveld aanvielen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653156092354560
+    m_Localized: "Boeren werden gedwongen alles te vinden en te gebruiken wat een
+      wapen kon zijn om te helpen bij gevechten. Van bijlen, slagersmessen, hooivorken,
+      tot zelfs ge\xEFmproviseerde wapens.\r\n\nOndanks hun armoede toonden deze
+      infanterie-eenheden grote moed tegenover overweldigende kansen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653177336504320
+    m_Localized: 'Zeer vaak was de belangrijkste offensieve kracht van een leger
+      de milities die steden doorgaans in dienst hadden.
+
+
+
+      Elke troep was
+      goed getraind en goed uitgerust, wat hen in staat stelde om effectiever te
+      vechten op het slagveld. Deze soldaten waren echter meer als vrijwilligers
+      dan als fulltime strijders.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15653210152738816
+    m_Localized: 'Cavalerietroepen waren niet beperkt tot de goed uitgerusten of
+      de adel.
+
+
+
+      Meer gemiddelde cavalerietroepen bestonden uit individuen
+      met uiteenlopende sociale achtergronden. Deze mensen waren niet per se van
+      hoge status, maar waren desondanks bekwame ruiters die bereid waren als bereden
+      krijgers te dienen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15671024426553344
+    m_Localized: Piekenier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938915840008192
+    m_Localized: Voeg troepen toe of verwijder ze!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938951952965632
+    m_Localized: Wissel van niveau om andere troepen te zien!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15938969657122816
+    m_Localized: Klik op een kaart om meer informatie over de troepen te zien!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16300994899349504
+    m_Localized: 'Speciale Dank:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16301956921692160
+    m_Localized: 'Product Owner:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16384105633521664
+    m_Localized: Je hebt de tutorial nog niet gespeeld! We raden je ten zeerste aan
+      dat te doen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395862624149504
+    m_Localized: Aan het begin van elk spel verschijnen er drie kampeerplaatsen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395901522124800
+    m_Localized: "E\xE9n kampeerplaats gaat elke vier beurten uit totdat er \xE9\xE9n
+      overblijft. Controleer de wijzerplaat om te zien welke dat is!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395918844600320
+    m_Localized: Verover alle overgebleven kampeerplaatsen en verdedig twee beurten
+      om te winnen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395935835725824
+    m_Localized: Modder zal willekeurig verschijnen en enkele beurten op het bord
+      blijven.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16395947315535872
+    m_Localized: "Als je vastzit in de modder, kun je \xE9\xE9n beurt niet bewegen!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

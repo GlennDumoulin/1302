@@ -1,0 +1,193 @@
+{
+    "GameLoop": {
+        "IsFirstTurn": false,
+        "IsAiPlaying": false,
+        "TotalTroopsDeployed": 0,
+        "DeployTroopLimit": 2,
+        "PlayerSide": 0,
+        "CurrentGameSide": 0,
+        "StartingSide": 0,
+        "CurrentBattlePhase": 0,
+        "Troops": [
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Archer",
+                "CurrentHexagonCoordinates": [
+                    -1,
+                    -3
+                ]
+            },
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Swordsman",
+                "CurrentHexagonCoordinates": [
+                    -7,
+                    -1
+                ]
+            },
+            {
+                "HP": 2,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Swordsman+",
+                "CurrentHexagonCoordinates": [
+                    5,
+                    -3
+                ]
+            },
+            {
+                "HP": 2,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Crossbowman",
+                "CurrentHexagonCoordinates": [
+                    7,
+                    -3
+                ]
+            },
+            {
+                "HP": 3,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Knight+",
+                "CurrentHexagonCoordinates": [
+                    0,
+                    -2
+                ]
+            },
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_ArcherFR",
+                "CurrentHexagonCoordinates": [
+                    -7,
+                    1
+                ]
+            },
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_SwordsmanFR",
+                "CurrentHexagonCoordinates": [
+                    -4,
+                    0
+                ]
+            },
+            {
+                "HP": 2,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_Swordsman+FR",
+                "CurrentHexagonCoordinates": [
+                    6,
+                    0
+                ]
+            },
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_KnightFR",
+                "CurrentHexagonCoordinates": [
+                    -5,
+                    3
+                ]
+            },
+            {
+                "HP": 1,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_AntiHorseFR",
+                "CurrentHexagonCoordinates": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "HP": 3,
+                "ShieldPoints": 0,
+                "ShieldBroken": false,
+                "ShouldReload": false,
+                "ReloadThisTurn": false,
+                "HasActed": false,
+                "CanMove": true,
+                "AssetKey": "Troop_AntiHorse+FR",
+                "CurrentHexagonCoordinates": [
+                    3,
+                    1
+                ]
+            }
+        ],
+        "PlayerCards": [],
+        "EnemyCards": []
+    },
+    "Campfires": {
+        "TurnsTillVictory": 2,
+        "TurnsTillCampfireDies": 5,
+        "CountdownCounter": 0,
+        "SideThatCaptured": 0,
+        "TurnCounter": 0,
+        "SwitchCounter": 0,
+        "CampfiresCappedByPlayer": 0,
+        "StartCounter": false,
+        "WaitTurnAfterDestroy": false,
+        "CampfirePositions": []
+    },
+    "RainMud": {
+        "IsActive": false,
+        "TurnsWithoutRain": 0,
+        "TurnsWithMud": 0,
+        "MaxMudTurns": 3,
+        "CooldownCounter": 0,
+        "CooldownLimit": 1,
+        "OnCooldown": false,
+        "IsRaining": false,
+        "MudPositions": []
+    }
+}

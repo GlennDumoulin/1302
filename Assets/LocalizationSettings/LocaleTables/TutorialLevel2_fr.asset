@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel2_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 0b5b218e52e9cb54cbdd710c68cd4cb5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33855623790592
+    m_Localized: Attaquez ici!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33873214701568
+    m_Localized: "D\xE9placez-vous ici!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46289696718848
+    m_Localized: "D\xE9ployez ici!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46426917568512
+    m_Localized: "Passons en revue le d\xE9roulement d'une bataille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46717616390144
+    m_Localized: "Avant le d\xE9but d'une bataille, choisissez votre camp et construisez
+      votre deck."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47548294103040
+    m_Localized: "En entrant sur le champ de bataille, un c\xF4t\xE9 al\xE9atoire
+      sera s\xE9lectionn\xE9 pour commencer la bataille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48591673360384
+    m_Localized: "Un tour commence par le d\xE9placement ou l'attaque de vos troupes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50365918478336
+    m_Localized: "Le joueur qui commence ne peut d\xE9ployer qu'une carte lors de
+      son premier tour."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50616502976512
+    m_Localized: "Pour d\xE9ployer une carte, vous devez d'abord la s\xE9lectionner.
+      S\xE9lectionnez votre chevalier!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51122176655360
+    m_Localized: "D\xE9sormais, vous pouvez toujours d\xE9ployer jusqu'\xE0 2 cartes,
+      comme l'a fait l'ennemi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51606320971776
+    m_Localized: "Vous pouvez \xE9galement choisir de ne pas d\xE9ployer de nouvelles
+      cartes du tout."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52625180327936
+    m_Localized: "Pendant cette phase de votre tour, vous pouvez d\xE9placer ou attaquer
+      avec toutes vos troupes actuelles."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53094984318976
+    m_Localized: "Vous d\xE9cidez de l'ordre dans lequel vous agissez avec vos troupes.
+      R\xE9fl\xE9chissez-y bien! Cela pourrait influencer vos prochaines actions!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53710326464512
+    m_Localized: "Si vous ne voulez pas d\xE9placer une certaine troupe (par exemple,
+      recharger arbal\xE8te), vous pouvez simplement la laisser \xE0 sa place."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 301917639933952
+    m_Localized: "Ensuite, vous pouvez d\xE9ployer encore plus de troupes sur la
+      premi\xE8re rang\xE9e."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

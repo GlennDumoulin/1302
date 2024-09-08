@@ -1,0 +1,783 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4264916973470891406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4109046550564721155}
+  m_Layer: 0
+  m_Name: Deck02_FL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4109046550564721155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4264916973470891406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 679.7105, y: 354.73605, z: -66.37488}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8892027181056685247}
+  - {fileID: 3851214461875515445}
+  - {fileID: 6853108782605929457}
+  - {fileID: 1394094198735924995}
+  - {fileID: 7644297295018818700}
+  - {fileID: 6420888138838738358}
+  - {fileID: 9048373552925369}
+  - {fileID: 5865534485535168121}
+  - {fileID: 5919304114205008922}
+  - {fileID: 8555195921918656242}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1369185652734162770
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Knight
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e4191572131e7c04e82759ae36fd9dce, type: 3}
+--- !u!4 &6853108782605929457 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+    type: 3}
+  m_PrefabInstance: {fileID: 1369185652734162770}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1513458540462831893
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Swordsmen+ (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a37988812eeb7ac4fb290cde557858a2, type: 3}
+--- !u!4 &6420888138838738358 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+    type: 3}
+  m_PrefabInstance: {fileID: 1513458540462831893}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2125102751807531738
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Archer (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bfb2c7fbfe2c8fd4db6c534d034448b9, type: 3}
+--- !u!4 &5865534485535168121 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+    type: 3}
+  m_PrefabInstance: {fileID: 2125102751807531738}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2179432719071795385
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Archer (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bfb2c7fbfe2c8fd4db6c534d034448b9, type: 3}
+--- !u!4 &5919304114205008922 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+    type: 3}
+  m_PrefabInstance: {fileID: 2179432719071795385}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2742286295832363055
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: a37988812eeb7ac4fb290cde557858a2,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Swordsmen+
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a37988812eeb7ac4fb290cde557858a2, type: 3}
+--- !u!4 &7644297295018818700 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: a37988812eeb7ac4fb290cde557858a2,
+    type: 3}
+  m_PrefabInstance: {fileID: 2742286295832363055}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3998530868771653660
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Crossbowmen
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 458af2c96f1c32640b231dad8b55635a, type: 3}
+--- !u!4 &8892027181056685247 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3998530868771653660}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4224755117226000977
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Archer (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bfb2c7fbfe2c8fd4db6c534d034448b9, type: 3}
+--- !u!4 &8555195921918656242 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+    type: 3}
+  m_PrefabInstance: {fileID: 4224755117226000977}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5493076849728370202
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Archer
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bfb2c7fbfe2c8fd4db6c534d034448b9, type: 3}
+--- !u!4 &9048373552925369 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: bfb2c7fbfe2c8fd4db6c534d034448b9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5493076849728370202}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6864506667313632160
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: e4191572131e7c04e82759ae36fd9dce,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Knight (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e4191572131e7c04e82759ae36fd9dce, type: 3}
+--- !u!4 &1394094198735924995 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: e4191572131e7c04e82759ae36fd9dce,
+    type: 3}
+  m_PrefabInstance: {fileID: 6864506667313632160}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8748578856337542294
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4109046550564721155}
+    m_Modifications:
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5673452028617905972, guid: 458af2c96f1c32640b231dad8b55635a,
+        type: 3}
+      propertyPath: m_Name
+      value: Flemish_Crossbowmen (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 458af2c96f1c32640b231dad8b55635a, type: 3}
+--- !u!4 &3851214461875515445 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5484101457333583011, guid: 458af2c96f1c32640b231dad8b55635a,
+    type: 3}
+  m_PrefabInstance: {fileID: 8748578856337542294}
+  m_PrefabAsset: {fileID: 0}

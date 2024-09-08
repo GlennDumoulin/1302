@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TutorialLevel1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c2d725183f30abf44bc37feae0fbac7f, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 287338037903360
+    m_Localized: Your swordsman is on his own. Let's back up for now!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 287877739970560
+    m_Localized: Give your swordsman some ranged support!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288120757944320
+    m_Localized: Knights can charge. Try it out!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288650980884480
+    m_Localized: Oh no! We attacked a spearman with a knight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290362802176000
+    m_Localized: Spearmen are defensive troops against knights and will attack back.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 290585880428544
+    m_Localized: That spearman has caused enough damage. Fire at will!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291067541716992
+    m_Localized: Your crossbow has to reload and is in a vulnerable state.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 291369909092352
+    m_Localized: Swordsmen can also charge.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292090670874624
+    m_Localized: When you kill a troop with a charge attack, your troop will take
+      it's place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377495684513792
+    m_Localized: Archers can attack in a 2 tile radius.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 299127790239744
+    m_Localized: Let's protect our crossbow!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 377741634306048
+    m_Localized: Create some distance between our crossbow and their knight.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 378148955750400
+    m_Localized: Crossbows can't shoot at neighbouring tiles. So keep the enemies
+      abay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379392491388928
+    m_Localized: We won't move our crossbow this turn, so it can reload.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379671823646720
+    m_Localized: You could still move it, but this will delay the reloading.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380269046398976
+    m_Localized: While reloading, the crossbow has a shield and can take 1 extra
+      damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381016832081920
+    m_Localized: Once the shield is broken, it will never return.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381326963113984
+    m_Localized: Attack here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381360899227648
+    m_Localized: Move here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381387822465024
+    m_Localized: Our crossbow has reloaded! Now we could shoot again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382110744313856
+    m_Localized: One more enemy to go! Let's finish this!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
